@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Who Am I -reference from Les
-Miserable
 ---
 
 My name is Alex Leu, and this is what I do!
@@ -10,6 +8,9 @@ My name is Alex Leu, and this is what I do!
 - I've recently started working in the Optimization Lab team at AdRoll as a
   Data Scientist.
 - I've recently developed an interest in Shiny and R Markdown by RStudio.
+- I talk a lot about Data Pipeline framework, play with few lanugages(Julia), \
+	and try to optimize everything I've learned @ work to implement in
+real life.
 - I also like to run. I just finished a half marathon in November 2016.
 - I like to play guitar, beatbox, and sing!
 
@@ -35,5 +36,3 @@ data stream to make the best business executive decisions.
 
 I graduated from UCLA back in 2014 in Biophysics.
 
-I worked as a contractor at Google back in 2014-2016 as a Business Intelligence
-Devleoper.
