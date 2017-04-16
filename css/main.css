@@ -5,7 +5,7 @@
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #808080;
+  color: #000000;
   position: relative;
   background: #FFF;
 }
@@ -60,12 +60,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #008AFF;
+  background: #808080;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #008AFF;
+  background: #808080;
 }
 img::selection {
   color: white;
