@@ -38,9 +38,9 @@ avatar: "/img/alexcleupix.jpg"
 author:
   name: Alex Leu
   email: "alexcleu@gmail.com"
-  github: "https://www.github.com/alexcleu"    # eg. daattali
-  twitter: "https://www.twitter.com/alexcleu"   # eg. daattali
-  linkedin: "https://www.linkedin.com/in/alexcleu" # eg. daattali
+  github: "alexcleu"    # eg. daattali
+  twitter: "alexcleu"   # eg. daattali
+  linkedin: "alexcleu" # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
