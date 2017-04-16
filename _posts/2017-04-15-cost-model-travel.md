@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Practical Python Business Cost Model -- Travel!
+title: Practical Python Business Cost Model for Traveling
+tags: [pythonic_business, python, pandas, cost model]
 ---
 
 So recently me and my friend are planning to go to a trip to New York. We
