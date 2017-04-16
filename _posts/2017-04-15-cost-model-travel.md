@@ -381,7 +381,7 @@ budget_df.plot.line(x='budget',
 
 
 
-![png](NY%20cost%20model_files/NY%20cost%20model_22_1.png)
+![png](/img/ipnb/cost_model.png)
 
 
 Hope this is helpful to determine how much we'd want to spend for daily house rental!
