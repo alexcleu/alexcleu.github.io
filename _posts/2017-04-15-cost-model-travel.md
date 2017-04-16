@@ -385,3 +385,10 @@ budget_df.plot.line(x='budget',
 
 
 Hope this is helpful to determine how much we'd want to spend for daily house rental!
+
+## Conclusion:
+Over all after working on the model on python notebook. The readability
+was definitely clearer than excel. Also there is nothing that is hidden
+within the code with implicit functions. I do like budgeting this way
+a lot, and hopefully I can do more pythonic style models for my day to day
+in the future.
