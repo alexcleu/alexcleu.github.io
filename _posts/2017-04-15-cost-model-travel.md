@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying to do some cost models with python!
+title: Practical Python Business Cost Model -- Travel!
 ---
 
 So recently me and my friend are planning to go to a trip to New York. We
