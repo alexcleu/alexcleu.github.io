@@ -4,6 +4,13 @@ title: Practical Reporting with R and Google Sheet.
 tags: [r_business, r, dplyr, reporting]
 ---
 
+
+Quick Reporting with R and Google Sheet.
+----------------------------------------
+
+The idea is that at startups, we don't really have the luxury to create an end to end reporting to leaderships/managers that needed more in a quicker turnaround. Imagine how 10 users had asked you for a report that is updated on a daily basis, and you had to 1) pull in the query, 2) drop it in as csv file and 3) send it to the end client. The purpose of this article is to automate this whole thing until a more sustatinable reporting system can be built out.
+
+First we preload a couple of packages that we will be using.
 ``` r
 suppressMessages(library(lubridate))       # Date Manipulation Library
 suppressMessages(library(dplyr))
@@ -14,13 +21,7 @@ library(stringr)
 library(googlesheets)
 library(lubridate)
 ```
-
-Quick Reporting with R and Google Sheet.
-----------------------------------------
-
-The idea is that at startups, we don't really have the luxury to create an end to end reporting to leaderships/managers that needed more in a quicker turnaround. Imagine how 10 users had asked you for a report that is updated on a daily basis, and you had to 1) pull in the query, 2) drop it in as csv file and 3) send it to the end client. The purpose of this article is to automate this whole thing until a more sustatinable reporting system can be built out.
-
-First we use some dummy data to play with. Let's pull in some dummy data from iris.
+Next we use some dummy data to play with. Let's pull in some dummy data from iris.
 
 ``` r
 flower_df <- iris
