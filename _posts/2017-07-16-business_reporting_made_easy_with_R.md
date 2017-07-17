@@ -12,9 +12,6 @@ The idea is that at startups, we don't really have the luxury to create an end t
 
 First we preload a couple of packages that we will be using.
 ``` r
-suppressMessages(library(lubridate))       # Date Manipulation Library
-suppressMessages(library(dplyr))
-suppressMessages(library(stringr))
 library(dplyr)
 library(tidyr)
 library(stringr)
