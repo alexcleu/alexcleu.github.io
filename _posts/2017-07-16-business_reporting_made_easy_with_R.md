@@ -69,6 +69,21 @@ gs_input_sheet %>%
 
 To send your result to the end user, you can try using mailR to do the trick.
 
+```r
+msg <- paste("Please reach out for hte new data at here: thank you!")
+sender <- 'alexcleu@gmail.com'
+recipients <- c('alexcleu@gamil.com')
+send.mail(from = sender,
+    to = recipients,
+    subject = "Data Pull Report",
+    body = msg,
+    smtp = list(host.name = "smtp.gmail.com", port = 587,
+                user.name = "alexcleu@gmail.com",
+                passwd = "<your_password>", ssl = TRUE),
+    authenticate = TRUE,
+    send = TRUE)
+```
+
 Conslusion:
 -----------
 
