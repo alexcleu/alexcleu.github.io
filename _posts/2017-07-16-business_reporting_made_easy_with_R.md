@@ -68,7 +68,7 @@ gs_input_sheet %>%
     ## Accessing worksheet titled 'Sheet1'.
 
     ## Sheet successfully downloaded:
-    ## /Users/alexleu/optimization-lab/shiny/conan/iris.pdf
+    ## /Users/alexleu/iris.pdf
 
 To send your result to the end user, you can try using mailR to do the trick.
 
