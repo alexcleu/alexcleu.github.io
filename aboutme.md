@@ -3,16 +3,16 @@ layout: page
 title: About me
 ---
 
-My name is Alex Leu, and this is what I do!
+Hello, welcome to my page! I am Alex Leu, and here's some stuff about me:
 
-- I've recently started working in the Optimization Lab team at AdRoll as a
-  Data Scientist.
-- I've recently developed an interest in Shiny and R Markdown by RStudio.
-- I talk a lot about Data Pipeline framework, play with few lanugages(Julia), \
-	and try to optimize everything I've learned @ work to implement in
-real life.
-- I also like to run. I just finished a half marathon in November 2016.
-- I like to play guitar, beatbox, and sing!
+I am a Data Science Engineer that focuses in Optimization @AdRoll Group.
+- My go to language for productionized code is python, ad-hoc analysis in python,
+    and staistical test in R.
+- I have been learning Time Series Modeling lately, and hope to sharpen my
+skill in it.
+- Over spare time I build bots for my church(usher bot)
+- I also learn Julialang on my spare time.
+- I also like to run. I just finished full marathon in 2017.
 
 ### my interest
 I am a natural science lifelong learner who recently discovered the beauty
@@ -34,5 +34,8 @@ data stream to make the best business executive decisions.
 
 ### my history
 
-I graduated from UCLA back in 2014 in Biophysics.
+I graduated from UCLA back in 2014 in Biophysics. I used to work at Google
+from an analyst to a business intelligence developer. In 2016, I switched
+from business intelligence developer to data scientist @ AdRoll Group.
+Afterwards, I became a Data Science Engineer, focus in Optimization.
 
